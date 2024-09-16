@@ -17,7 +17,7 @@ const Activities = () => {
         <section id="extracurricular">
 
         
-        <div className='w-full h-auto pb-20'>
+        <div className='w-full h-auto pb-20 bg-lightsand py-32'>
             <h1 className='text-5xl font-extrabold text-center'>Extracurricular Activities</h1>
             <br/>
             <div className='flex justify-center gap-80'>

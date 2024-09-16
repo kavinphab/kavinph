@@ -27,7 +27,7 @@ const DisplayProjects = ({title, description, link}) => {
 const Skills = () => {
     return (
         <section id="projects">
-        <div className=' grid grid-cols-2 gap-4 w-full h-auto py-32'>
+        <div className=' grid grid-cols-2 gap-4 w-full h-auto py-32 bg-red'>
             <div className='mx-32'>
                 <h1 className='text-5xl font-medium'>Skills</h1>
                 <br/>
